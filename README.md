@@ -52,7 +52,7 @@ int main(){
     printf("max = %d.00\n",max);
     printf("min = %d.00",min);
     }
-    
+ ```  
 ### 2. 找出不是两个数组中的共同元素
 ```c#include <stdio.h>
 int main(){
@@ -126,7 +126,7 @@ int main(){
        }
    }
 }
-
+```
 ## 2.链表
 ## 3.查找排序
 ## 4.字符串
