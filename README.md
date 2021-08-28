@@ -54,7 +54,8 @@ int main(){
     }
  ```  
 ### 2. 找出不是两个数组中的共同元素
-```c#include <stdio.h>
+```c
+#include <stdio.h>
 int main(){
     int m,n;
     int i,j;
